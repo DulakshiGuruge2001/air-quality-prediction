@@ -265,32 +265,9 @@ Missing Values: None
 Data Quality: Clean and validated
 ```
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to:
-- Report bugs or issues
-- Suggest improvements
-- Add new analysis techniques
-- Enhance visualizations
-- Improve model accuracy
-- Submit pull requests
-
----
-
 ## 📄 License
 
 This project is open-source and available for educational and research purposes.
-
----
-
-## 📞 Contact & Support
-
-For questions or inquiries about this project:
-- Open an issue in the repository
-- Check the documentation in PDF reports
-- Review the Jupyter notebooks for detailed explanations
 
 ---
 
@@ -304,11 +281,6 @@ This project demonstrates:
 - Data visualization best practices
 - Statistical analysis for environmental monitoring
 - Hyperparameter optimization strategies
-
----
-
-**Last Updated:** June 2026  
-**Status:** ✅ Complete and Documented
 
 ---
 
